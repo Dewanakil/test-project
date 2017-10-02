@@ -1,0 +1,144 @@
+.margin
+{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.color_well
+{
+    background-color: #2980b9 !important;
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+}
+.navigation
+{
+  background-color: white !important;
+    border: none !important;
+    color: black !important;
+} 
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: black !important;
+    background-color: #ffffff !important;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black !important;
+}
+
+
+.backgroundimg
+{
+    background: url(assets/image/mobile_opacity_large.jpg) no-repeat center center fixed; 
+    height: 750px;
+    width: 100%; 
+    background-size: cover;
+}
+.text
+{
+    color: aliceblue;
+   
+}
+.button
+{
+        line-height: 2.428571 !important;
+        margin-top: 5% !important;
+        background-color: #6FC400 !important;
+}
+.service
+{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    
+    color: #bdc3c7;
+    animation-duration: 8s !important;
+    
+}
+.underbk
+{   
+    margin-top: 5%;
+    text-align: center;
+}
+.im
+{
+    margin-top: 30px;
+}
+.im2
+{
+    background-color: #ecf0f1;
+     margin-top: 60px;
+}
+.pad
+{
+    padding-top: 40px;
+    padding-bottom: 40px !important;
+   
+}
+.smallpart
+{
+    padding-top: 8%;
+}
+
+
+.backimg
+{
+    margin-top: 50px;
+    background: url(assets/image/mobile_opacity_large.jpg) no-repeat center center fixed; 
+    height: 300px;
+    width: 100%; 
+    background-size: cover;
+}
+
+.aboutus
+{
+    margin-top: 80px;
+    
+}
+
+.f_form
+{
+    margin-top: 60px;
+
+
+}
+.para
+{
+   padding-left: 40px;
+    text-align: justify;
+}
+.leftform
+{
+    background-color: white;
+    height: 500px;
+    
+}
+.rightform
+{
+   background-color: #6FC400; 
+    height: 500px;
+    padding-top: 60px;
+}
+
+.backimg3
+{
+    margin-top: 80px;
+    background: url(assets/image/mobile_opacity_large.jpg) no-repeat center center fixed; 
+    height: 200px;
+    width: 100%; 
+    background-size: cover;
+    
+}
+.footerb
+{
+    background-color:#45474e;!important;
+    height: 300px;
+    color: white !important;
+    padding: 60px;
+}
+ .navf>ul>a>li
+{
+    color: white;
+   text-align: center;
+    
+    
+}
